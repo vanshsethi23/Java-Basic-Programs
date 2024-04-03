@@ -3,10 +3,11 @@ This repository contains a collection of basic Java programs designed to help be
 <br>
 Note: Change the package name accordingly to make the Java Programs run on your computer. The public class name and the java file name should be same for smooth running of the programs on your system without any errors.
 <br>
-# Author - Vansh Sethi
+### Author - Vansh Sethi
 <br>
 
-# Connect with me
+## Connect with me
 <br>
 <a href = "https://www.linkedin.com/in/vansh-sethi-54193421a/">My LinkedIn</a>
+<br>
 <a href = "https://twitter.com/VanshSethitwts">My Twitter</a>
