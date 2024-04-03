@@ -21,7 +21,7 @@ class Dogs extends Animals {
     }
 }
 
-public class MethodOverridinginJAVA {
+public class MethodOverridinginJava {
     public static void main(String[] args) {
 
         // Create an Object of the subclass
