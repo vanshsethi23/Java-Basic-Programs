@@ -6,7 +6,7 @@ Note: Change the package name accordingly to make the Java Programs run on your 
 ### Author - Vansh Sethi
 
 ## Connect with me
-<br>
+
 <a href = "https://www.linkedin.com/in/vansh-sethi-54193421a/">My LinkedIn</a>
 <br>
 <a href = "https://twitter.com/VanshSethitwts">My Twitter</a>
