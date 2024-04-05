@@ -23,9 +23,9 @@ public class StringsinJAVA {
 
         // 4. replace - used to replace a character of a particular string with another character. Changes doesn't take place in the original string rather the changes occur in the new string. (ie, Strings in JAVA are immutable)
 
-        String chick = "Manya";
-        String newchick = chick.replace('M', 'A');
-        System.out.println(newchick);
+        String student1 = "Vansh";
+        String student2 = student1.replace('V', 'Di');
+        System.out.println(student2);
 
         // 5. substring - used to extract a portion of a string. Syntax: stringname.substring(starting index, ending index). Note: Ending Index is not included!
         String wrestler = "John";
