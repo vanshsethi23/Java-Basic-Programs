@@ -27,7 +27,7 @@ git clone https://github.com/vanshsethi23/Java-Basic-Programs.git
 
 6. **Experiment and Modify**: Experiment with the code, make modifications, and observe the changes in the program's behavior.
 
-7. **Note**: Change the package name accordingly to make the Java Programs run on your computer. The public class name and the java file name should be same for smooth running of the programs on your system without any errors.
+7. **Note**: The public class name and the java file name should be same for smooth running of the programs on your system without any errors.
 
 ### Contribution Guidelines
 
