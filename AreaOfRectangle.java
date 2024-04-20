@@ -1,5 +1,3 @@
-package JavaBasicPrograms;
-
 import java.util.Scanner;
 
 public class AreaOfRectangle {
@@ -22,3 +20,4 @@ public class AreaOfRectangle {
             System.out.println("Area Of Rectangle: " + area);
         }
     }
+

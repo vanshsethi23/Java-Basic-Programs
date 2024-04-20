@@ -1,6 +1,4 @@
-package com.sampleproject;
-
-public class mathclass {
+public class MathClass {
     public static void main(String[] args) {
         // Maths Class - this class in JAVA provides a set of static methods for performing common mathematical operations.
         System.out.println(Math.max(3894, 3891));

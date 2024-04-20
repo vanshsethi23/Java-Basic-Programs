@@ -1,5 +1,3 @@
-package JavaBasicPrograms;
-
 class Animal {
     // Field and Method of the parent class
     String name;

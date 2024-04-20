@@ -1,5 +1,3 @@
-package JavaBasicPrograms;
-
 import java.util.Scanner;
 
 public class PrimeNumberOrNot_WhileLoop {

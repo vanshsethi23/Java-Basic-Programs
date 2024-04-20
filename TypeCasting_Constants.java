@@ -1,5 +1,3 @@
-package com.sampleproject;
-
 public class TypeCasting_Constants {
     public static void main(String[] args) {
         // TypeCasting in JAVA: converting a variable from one datatype to another as long as they are compatible!

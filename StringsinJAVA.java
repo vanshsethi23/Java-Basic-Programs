@@ -1,5 +1,3 @@
-package com.sampleproject;
-
 public class StringsinJAVA {
     public static void main(String[] args) {
         // String Methods

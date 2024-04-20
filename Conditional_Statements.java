@@ -1,5 +1,3 @@
-package com.sampleproject;
-
 import java.util.Scanner;
 
 public class Conditional_Statements {

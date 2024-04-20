@@ -1,5 +1,3 @@
-package JavaBasicPrograms;
-
 public class OperatorsInJava {
     public static void main(String[] args) {
         // Operators in JAVA:

@@ -1,5 +1,3 @@
-package JavaBasicPrograms;
-
 class Animals {
     // Method in the superclass
     public void eat() {

@@ -1,5 +1,3 @@
-package com.sampleproject;
-
 public class Variables_DataTypes {
     public static void main(String[] args) {
 

@@ -1,5 +1,3 @@
-package com.sampleproject;
-
 public class Functions_Methods {
     public static void printJava() {
         System.out.println("Hello Java, I have written this code snippet to understand the use of Functions in Java!");

@@ -1,5 +1,3 @@
-package com.sampleproject;
-
 public class Break_Continue {
     public static void main(String[] args) {
         // Break & Continue Statement in JAVA:
