@@ -35,7 +35,7 @@ class Dog {
     }
 }
 
-public class ConstructorsinJava {
+public class ConceptOfConstructors {
     public static void main(String[] args) {
         Dog dog1 = new Dog();
         dog1.name = "Rocky";
